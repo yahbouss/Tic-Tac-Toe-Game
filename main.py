@@ -20,7 +20,7 @@ def basic(ttt):
 
 
 def initt():
-    print('Welcome To Tic Tac Toe BY Yah Bouss')
+    print('Welcome To Tic Tac Toe By Yah Bouss.')
     time.sleep(1)
 
 
